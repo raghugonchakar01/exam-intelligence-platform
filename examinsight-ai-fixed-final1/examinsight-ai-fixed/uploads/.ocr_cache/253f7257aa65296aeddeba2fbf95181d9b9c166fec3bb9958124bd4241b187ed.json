@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "confidence": 98.0,
+      "answers": [
+        {
+          "question_label": "1",
+          "text": "Photosynthesis is the chemical process where green plants convert sunlight, carbon dioxide, and w",
+          "is_continuation": false,
+          "is_crossed_out": false,
+          "confidence": 98.0,
+          "notes": "",
+          "page_number": 1
+        },
+        {
+          "question_label": "2",
+          "text": "State Ohm's Law: The current passing through a conductor between two points is directly proportio",
+          "is_continuation": false,
+          "is_crossed_out": false,
+          "confidence": 98.0,
+          "notes": "",
+          "page_number": 1
+        }
+      ]
+    }
+  ],
+  "recognized_answers": [
+    {
+      "question_label": "1",
+      "text": "Photosynthesis is the chemical process where green plants convert sunlight, carbon dioxide, and w",
+      "is_continuation": false,
+      "is_crossed_out": false,
+      "confidence": 98.0,
+      "notes": "",
+      "page_number": 1
+    },
+    {
+      "question_label": "2",
+      "text": "State Ohm's Law: The current passing through a conductor between two points is directly proportio",
+      "is_continuation": false,
+      "is_crossed_out": false,
+      "confidence": 98.0,
+      "notes": "",
+      "page_number": 1
+    }
+  ],
+  "combined_text": "--- Page 1 ---\nQ1. Photosynthesis is the chemical process where green plants convert sunlight, carbon dioxide, and w\nQ2. State Ohm's Law: The current passing through a conductor between two points is directly proportio",
+  "ocr_confidence": 98.0,
+  "ocr_engine": "Digital Document Text Extractor (PyMuPDF)",
+  "is_fallback": false,
+  "notice": "Digital PDF with selectable text detected; extracted directly without OCR errors.",
+  "confidence_warning": null,
+  "total_pages": 1,
+  "student_name": null,
+  "student_id": null,
+  "file_hash": "253f7257aa65296aeddeba2fbf95181d9b9c166fec3bb9958124bd4241b187ed",
+  "from_cache": false
+}

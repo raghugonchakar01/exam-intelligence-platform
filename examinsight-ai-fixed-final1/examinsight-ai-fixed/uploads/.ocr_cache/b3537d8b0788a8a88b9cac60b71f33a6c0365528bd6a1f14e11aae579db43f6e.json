@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "confidence": 65.0,
+      "answers": [
+        {
+          "question_label": "Q1",
+          "text": "[Handwritten response section 1 - verified via page layout]",
+          "is_continuation": false,
+          "is_crossed_out": false,
+          "confidence": 65.0,
+          "notes": "Extracted via local layout analysis. Review and edit transcription if necessary.",
+          "page_number": 1
+        }
+      ]
+    }
+  ],
+  "recognized_answers": [
+    {
+      "question_label": "Q1",
+      "text": "[Handwritten response section 1 - verified via page layout]",
+      "is_continuation": false,
+      "is_crossed_out": false,
+      "confidence": 65.0,
+      "notes": "Extracted via local layout analysis. Review and edit transcription if necessary.",
+      "page_number": 1
+    }
+  ],
+  "combined_text": "--- Page 1 ---\n[Q1] [Handwritten response section 1 - verified via page layout]",
+  "ocr_confidence": 65.0,
+  "ocr_engine": "Local Layout Analysis (Offline Fallback)",
+  "is_fallback": true,
+  "notice": null,
+  "confidence_warning": null,
+  "total_pages": 1,
+  "student_name": null,
+  "student_id": null,
+  "file_hash": "b3537d8b0788a8a88b9cac60b71f33a6c0365528bd6a1f14e11aae579db43f6e",
+  "from_cache": false
+}

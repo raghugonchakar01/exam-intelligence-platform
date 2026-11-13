@@ -1,0 +1,916 @@
+{
+  "run_id": null,
+  "generated_at": "2026-10-09T15:04:16+00:00",
+  "final_status": "PARTIALLY COMPLETE",
+  "counting_rule": "Distinct paper count is SHA-256-distinct registered documents; multiple links to identical bytes count once.",
+  "discovery": {},
+  "run_outcomes": {},
+  "documents_by_status": {
+    "CONFIRMED_IRRELEVANT": 26,
+    "DUPLICATE_OF_ANOTHER_DOCUMENT": 5,
+    "EXTRACTED_SUCCESSFULLY": 84,
+    "NEEDS_REVIEW": 85
+  },
+  "distinct_registered_papers": 93,
+  "stored_questions": 3785,
+  "unresolved_documents": 85,
+  "breakdown": [
+    {
+      "subject": "Unknown",
+      "year": 2027,
+      "exam": "SSLC Main Examination",
+      "medium": "Unknown",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "English",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 9
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "Unknown",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2026,
+      "exam": "SSLC Supplementary Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 23
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Unknown",
+      "year": 2026,
+      "exam": "SSLC Main Examination",
+      "medium": "Unknown",
+      "status": "NEEDS_REVIEW",
+      "count": 26
+    },
+    {
+      "subject": "English",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2025,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2024,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "CONFIRMED_IRRELEVANT",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Unknown",
+      "year": 2023,
+      "exam": "SSLC Main Examination",
+      "medium": "Unknown",
+      "status": "NEEDS_REVIEW",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "DUPLICATE_OF_ANOTHER_DOCUMENT",
+      "count": 1
+    },
+    {
+      "subject": "English Communicative",
+      "year": 2022,
+      "exam": "SSLC Main Board Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "DUPLICATE_OF_ANOTHER_DOCUMENT",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2022,
+      "exam": "SSLC Supplementary Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics (Standard/Basic)",
+      "year": 2022,
+      "exam": "SSLC Main Board Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "DUPLICATE_OF_ANOTHER_DOCUMENT",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2022,
+      "exam": "SSLC Supplementary Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science (Physics, Chemistry, Bio)",
+      "year": 2022,
+      "exam": "SSLC Main Board Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2022,
+      "exam": "SSLC Main Board Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2022,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "DUPLICATE_OF_ANOTHER_DOCUMENT",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2021,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2020,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2019,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2018,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2017,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "DUPLICATE_OF_ANOTHER_DOCUMENT",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2016,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "English",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Hindi",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada",
+      "status": "NEEDS_REVIEW",
+      "count": 4
+    },
+    {
+      "subject": "Kannada First Language",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Kannada Second Language",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "Kannada language paper",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Mathematics",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Science",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Social Science",
+      "year": 2015,
+      "exam": "SSLC Main Examination",
+      "medium": "English",
+      "status": "EXTRACTED_SUCCESSFULLY",
+      "count": 1
+    },
+    {
+      "subject": "Unknown",
+      "year": null,
+      "exam": "SSLC Main Examination",
+      "medium": "Unknown",
+      "status": "NEEDS_REVIEW",
+      "count": 2
+    }
+  ],
+  "ready_papers": 84,
+  "review_papers": 9,
+  "ready_papers_by_subject": [
+    {
+      "subject": "English",
+      "papers": 12
+    },
+    {
+      "subject": "Hindi",
+      "papers": 12
+    },
+    {
+      "subject": "Kannada First Language",
+      "papers": 12
+    },
+    {
+      "subject": "Kannada Second Language",
+      "papers": 11
+    },
+    {
+      "subject": "Mathematics",
+      "papers": 13
+    },
+    {
+      "subject": "Science",
+      "papers": 13
+    },
+    {
+      "subject": "Social Science",
+      "papers": 11
+    }
+  ],
+  "ready_questions": 2848
+}

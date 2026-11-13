@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "confidence": 38.0,
+      "answers": [
+        {
+          "question_label": "1",
+          "text": "Tel : 7 tas rE x\nTe Siam Rag pawnbrr. . Gonakiorr, Harsh\nIts 1s b {sserry .\n4 a declanon ty ,\ny ry wm Prompt \\ bakeh ,\nRad om 1DEK oP dfved 202.6 | yn “SESE\nMods k-D13 an\nN Naw 4 Hue- accent : Raghavendra Gondhar. Bee\n+  g4b6 BAI SES I ae\nAvanush GB - « Harghal.M - Koss Res\n| 4b — affect Roghaundea PL [OSs",
+          "is_continuation": false,
+          "is_crossed_out": false,
+          "confidence": 38.0,
+          "notes": "",
+          "page_number": 1
+        }
+      ]
+    }
+  ],
+  "recognized_answers": [
+    {
+      "question_label": "1",
+      "text": "Tel : 7 tas rE x\nTe Siam Rag pawnbrr. . Gonakiorr, Harsh\nIts 1s b {sserry .\n4 a declanon ty ,\ny ry wm Prompt \\ bakeh ,\nRad om 1DEK oP dfved 202.6 | yn “SESE\nMods k-D13 an\nN Naw 4 Hue- accent : Raghavendra Gondhar. Bee\n+  g4b6 BAI SES I ae\nAvanush GB - « Harghal.M - Koss Res\n| 4b — affect Roghaundea PL [OSs",
+      "is_continuation": false,
+      "is_crossed_out": false,
+      "confidence": 38.0,
+      "notes": "",
+      "page_number": 1
+    }
+  ],
+  "combined_text": "--- Page 1 ---\n[1] Tel : 7 tas rE x\nTe Siam Rag pawnbrr. . Gonakiorr, Harsh\nIts 1s b {sserry .\n4 a declanon ty ,\ny ry wm Prompt \\ bakeh ,\nRad om 1DEK oP dfved 202.6 | yn “SESE\nMods k-D13 an\nN Naw 4 Hue- accent : Raghavendra Gondhar. Bee\n+  g4b6 BAI SES I ae\nAvanush GB - « Harghal.M - Koss Res\n| 4b — affect Roghaundea PL [OSs",
+  "ocr_confidence": 38.0,
+  "ocr_engine": "Local Tesseract OCR (Handwriting PSM)",
+  "is_fallback": true,
+  "notice": "Gemini Vision API error: Gemini Vision API failed after retries: 404 Client Error: Not Found for url: htt. Switched to next OCR tier.",
+  "confidence_warning": "Low OCR confidence — please review the extracted text before evaluation.",
+  "total_pages": 1,
+  "student_name": null,
+  "student_id": null,
+  "file_hash": "485d859f286cbdf0ad2956cef10a8005fba5ce6d6bf99a314019665cd4dff5c8",
+  "from_cache": false
+}
